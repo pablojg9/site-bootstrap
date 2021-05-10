@@ -1,0 +1,35 @@
+body {
+    background-color: #ecfafd;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.collapse {
+    justify-content: flex-end;
+}
+
+.nav-bar:hover {
+    color: rgb(77, rgb(50, 51, 50), rgb(133, 133, 139));
+}
+
+.nav-link{
+    color:#3b3837;
+    font-weight: bold;
+}
+.navbar{
+    background-color: #202020;
+}
+
+.container {
+    padding: 30px 30px;
+
+}
+
+.card {
+    padding: 15px 15px;
+    justify-content: flex-end;
+
+}
+
